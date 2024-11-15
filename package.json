@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/garophyton/garophyton.github.io/home"
+  "homepage": "homepage": "https://garophyton.github.io/garophyton/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
   "name": "practica-pp-react",
